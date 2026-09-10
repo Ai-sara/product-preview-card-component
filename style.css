@@ -81,7 +81,7 @@ body{
 
 .card__category{
     font-size:12px;
-    letter-spacing: 4px;
+    letter-spacing: 0.42emco;
     text-transform: uppercase;
     margin-bottom: 18px;
 }
