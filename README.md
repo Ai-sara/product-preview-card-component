@@ -8,7 +8,7 @@ A responsive product preview card built as a solution to the [Frontend Mentor](h
 
 ## Live Demo
 
-[View Live Site](YOUR-VERCEL-URL)
+[View Live Site](https://product-preview-card-component-001.vercel.app/)
 
 ## Built With
 
